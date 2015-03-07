@@ -1,0 +1,7 @@
+{
+  "name": "react-debowerify-demo",
+  "version": "0.1.0",
+  "dependencies": {
+    "react": "~0.12.2"
+  }
+}
